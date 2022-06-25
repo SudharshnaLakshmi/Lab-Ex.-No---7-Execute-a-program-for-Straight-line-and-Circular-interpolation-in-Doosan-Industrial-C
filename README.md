@@ -39,12 +39,18 @@ Circular Interpolation
 
 ## OUTPUT:
 ![OUTPUT](./Entry.PNG)
+
 ![OUTPUT](./Status.PNG)
+
 ![OUTPUT](./Jog.PNG)
+
 ![OUTPUT](./Load%20worklist.PNG)
+
 ![OUTPUT](Program.PNG)
+
 ### Linear Interpolation
 ![OUTPUT](./Final%20Program%20Linear.PNG)
+
 ### Circular Interpolation
 ![OUTPUT](./Final%20Program%20Linear.PNG)
 
